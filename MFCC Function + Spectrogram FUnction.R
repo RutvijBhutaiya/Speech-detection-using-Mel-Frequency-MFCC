@@ -172,7 +172,7 @@ spec.sad = spectrogram(mfcc.sad, sad, 'Sad - mel Spectrogram')
 
 ###########
 
-# SOLUTION IS HERE:
+# FEW NOTES::
 
 # 1. We can limit the element size from all files and can get the same matrix
 
